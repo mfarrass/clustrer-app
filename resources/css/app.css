@@ -1,0 +1,35 @@
+/* resources/css/app.css */
+.table th, .table td {
+    text-align: center;
+}
+
+.table td, .table th {
+    padding: 15px;
+}
+
+.btn-sm {
+    padding: 5px 10px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border: none;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
